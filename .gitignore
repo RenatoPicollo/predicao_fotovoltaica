@@ -1,0 +1,12 @@
+*.pdf
+*.doc
+*.tmp
+/API Redemet
+/Banco de Dados/metar_log/metar_log_recovery.py
+/Banco de Dados/metar_log/metar_log_v1.py
+/Banco de Dados/metar_log/metar_log_v2.py
+/Banco de Dados/metar_log/metar_log_v3.py
+/Banco de Dados/usina_log/usina_log.py
+/Banco de Dados/usina_log/usina_log_v1.py
+/Banco de Dados/usina_log/usina_log_v2.py
+/Banco de Dados/usina_log/usina_log_v3.py

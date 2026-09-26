@@ -1,0 +1,1 @@
+Técnica de predição da eficiência de usinas fotovoltaicas em função da previsão do tempo utilizando modelos computacionais
